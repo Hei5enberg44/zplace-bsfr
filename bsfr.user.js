@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Z/Place - Logo BSFR
 // @namespace    https://github.com/Hei5enberg44/zplace-bsfr
-// @version      0.3
+// @version      0.31
 // @description  Overlay logo BSFR.
 // @author       Hei5enberg
 // @match        https://place.zevent.fr
@@ -19,8 +19,8 @@
     const container = document.querySelector('.react-transform-component')
     const img = document.createElement('img')
     img.style.position = 'absolute'
-    img.style.top = '515px'
-    img.style.left = '478px'
+    img.style.top = '495px'
+    img.style.left = '456px'
     // img.style.width = '50px'
     // img.style.height = '50px'
     img.style.zIndex = 1001
