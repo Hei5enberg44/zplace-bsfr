@@ -19,10 +19,10 @@
     const container = document.querySelector('.react-transform-component')
     const img = document.createElement('img')
     img.style.position = 'absolute'
-    img.style.top = '500px'
-    img.style.left = '650px'
-    img.style.width = '50px'
-    img.style.height = '50px'
+    img.style.top = '515px'
+    img.style.left = '478px'
+    // img.style.width = '50px'
+    // img.style.height = '50px'
     img.style.zIndex = 1001
     img.style.opacity = 0.6
     img.src = 'https://github.com/Hei5enberg44/zplace-bsfr/raw/main/BSFR.png'
