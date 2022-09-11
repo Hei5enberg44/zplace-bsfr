@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Z/Place - Logo BSFR
 // @namespace    https://github.com/Hei5enberg44/zplace-bsfr
-// @version      0.31
+// @version      0.4
 // @description  Overlay logo BSFR.
 // @author       Hei5enberg
 // @match        https://place.zevent.fr
